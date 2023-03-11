@@ -1,0 +1,6 @@
+Klasa: Person
+Atrybuty: 
+Name: String
+Surname: String
+Age: int
+Metody: IntroduceYourself(String): String 
